@@ -96,4 +96,3 @@ This application was developed as a Design Engineering project by:
 *   **Smeet Vaghela** - [LinkedIn Profile](https://www.linkedin.com/in/smeet-vaghela-601a1b287)
 *   **Radha Patil** - [LinkedIn Profile](https://www.linkedin.com/in/radha-patil-842057397)
 *   **Netra Patel** - [LinkedIn Profile](https://www.linkedin.com/in/netra-patel-734169315)
-*   **Rakshita Rathod**
