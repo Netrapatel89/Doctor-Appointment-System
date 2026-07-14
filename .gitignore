@@ -1,0 +1,52 @@
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.docstates
+*.swp
+*.swo
+
+# Web development & package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# AI Agent directories and logs
+.gemini/
+.agents/
+.agent/
+agent.log
+npm_install.log
+
+# PHP & Local configuration backups
+*.bak
+*.tmp
+*.temp
+.env
+.env.local
+.env.*.local
